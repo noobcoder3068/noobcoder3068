@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noobcoder3068
 - 👀 I’m interested in web designing (frontend + backend)
-- 🌱 I’m currently learning (SQL and data structure)
-- 💞️ I’m looking to collaborate on web development 
+- 🌱 I’m currently learning (backend)
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 mail me at aazizshaikh401@gmail.com for collaboration
 
 -  My Name is Abdul Aziz Shaikh
