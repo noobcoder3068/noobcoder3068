@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noobcoder3068
+- 👋 Hi, I’m @abdul_401
 - 👀 I’m interested in web designing (frontend + backend)
 - 🌱 I’m currently learning (backend)
 - 💞️ I’m looking to collaborate on web development projects
