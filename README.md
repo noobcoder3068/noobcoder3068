@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Finance tracker website using react, node.js, express and PostgreSQL.<br>I want to collaborate with any developer out there in building a Website using both frontend and backend<br>Currently I am sharpening my skills by practising making new projects
+I am currently working on a website designed for businesses to maintain their data in a well-structured form using Next.js, Tailwind CSS, Sass, PostgreSQL, Express, and Node.js. I am looking to collaborate with any developer interested in building a comprehensive solution that encompasses both frontend and backend development. At present, I am honing my skills by practicing and creating new projects.
 
 
 ## 🌐 Socials:
